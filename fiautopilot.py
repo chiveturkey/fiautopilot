@@ -22,6 +22,10 @@ def create_sqlite_db(dbname='fiautopilot.db'):
     connection.close()
 
 
+# Compound Interest Math
+
+# Determine the time in years when compound interest for the stock and compound
+# interest for inflation are equal.  Based on the Compound Interest Formula.
 def determine_when_stock_and_inflation_are_equal(principal_stock=0,
                                                  principal_inflation=1000000,
                                                  rate_inflation=0.03,
