@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Variables for the Compound Interest Formula
-time_in_years = 24
-principal_stock = 300000
+time_in_years = 32
+principal_stock = 150000
 rate_stock = 0.08
-principal_inflation = 1000000
+principal_inflation = 750000
 rate_inflation = 0.03
 number_of_compounds_per_years = 12
 
@@ -15,13 +15,13 @@ number_of_compounds_per_years = 12
 x_stock_past = [-3, -2, -1, 0]
 
 # y coordinates for past stock values
-y_stock_past = [200000, 250000, 275000, 300000]
+y_stock_past = [75000, 100000, 125000, 150000]
 
 # x coordinates for past inflation values
 x_inflation_past = [-3, -2, -1, 0]
 
 # y coordinates for past inflation values
-y_inflation_past = [1000000, 1000000, 1000000, 1000000]
+y_inflation_past = [750000, 750000, 750000, 750000]
 
 # x coordinates for the stock graph
 x_stock = np.arange(0, time_in_years + 1, 0.1)
