@@ -13,7 +13,7 @@ import json
 
 CONFIG_FILE = 'config.json'
 
-# If config.json exists, then use configuration values found there.  Otherwise,
+# If CONFIG_FILE exists, then use configuration values found there.  Otherwise,
 # use the following default constants.
 
 if os.path.isfile(CONFIG_FILE):
