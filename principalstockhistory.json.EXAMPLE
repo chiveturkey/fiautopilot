@@ -1,0 +1,44 @@
+{
+  "principal_stock_history": [
+    {
+      "date": "201707",
+      "principal_stock": 175000.00
+    },
+    {
+      "date": "201710",
+      "principal_stock": 180000.00
+    },
+    {
+      "date": "201801",
+      "principal_stock": 185000.00
+    },
+    {
+      "date": "201804",
+      "principal_stock": 190000.00
+    },
+    {
+      "date": "201807",
+      "principal_stock": 195000.00
+    },
+    {
+      "date": "201810",
+      "principal_stock": 200000.00
+    },
+    {
+      "date": "201901",
+      "principal_stock": 205000.00
+    },
+    {
+      "date": "201904",
+      "principal_stock": 210000.00
+    },
+    {
+      "date": "201907",
+      "principal_stock": 215000.00
+    },
+    {
+      "date": "201910",
+      "principal_stock": 220000.00
+    }
+  ]
+}

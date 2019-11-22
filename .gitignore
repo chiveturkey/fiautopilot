@@ -1,3 +1,4 @@
 *.db
 *.png
-config.json
+generalconfig.json
+principalstockhistory.json
